@@ -1,5 +1,10 @@
 # z7-ct7na-Hackintosh-OC
 
+# 当前版本
+
+- OpenCore v0.8.7-release
+- MacOs Monterey 12.6
+
 # 摘要
 
 - 平台：神舟z7-ct7na
