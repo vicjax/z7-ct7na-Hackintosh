@@ -16,7 +16,7 @@
 |        iGPU         |           Inter UDH 630           |   10.12.6~    |
 |         GPU         |         Nvidia GTX 1660Ti         |      N/A      |
 |  Wired Networking   |       Realtek RTL8168/8111        |       ~       |
-| Wireless Networking |     Intel(R) Wireless-AC 9462     |      N/A      |
+| Wireless Networking |     Intel(R) Wireless-AC 9462     |       ~       |
 |       Storage       |      WDC PC SA530 SDASN8Y512      |       ~       |
 |     Audio Codec     |          Realtek ALC293           |       ~       |
 
